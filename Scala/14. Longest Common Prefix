@@ -1,0 +1,18 @@
+object Solution {
+    def longestCommonPrefix(strs: Array[String]): String = {
+    val strs2 = strs.sorted.toList
+    val firstWord = strs2(0)
+    val secondWord = strs2(strs2.size -1)
+        var prefixWord = ""
+    
+    for(i <- 0 until firstWord.size){
+      if(firstWord(i) != secondWord(i)){
+          return prefixWord
+      }
+        else{
+            prefixWord = prefixWord + firstWord(i)
+        }
+    }
+        return prefixWord
+    }
+}
