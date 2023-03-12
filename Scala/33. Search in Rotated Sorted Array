@@ -1,0 +1,12 @@
+object Solution {
+  def search(nums: Array[Int], target: Int): Int = {
+    try{
+      nums.indexOf(target)
+    }
+    catch {
+      case ex: Exception => {
+        -1
+      }
+    }
+  }
+}
