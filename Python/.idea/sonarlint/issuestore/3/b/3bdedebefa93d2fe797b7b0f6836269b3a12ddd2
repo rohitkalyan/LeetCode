@@ -1,0 +1,4 @@
+
+{python:S117"]Rename this local variable "stringVowels" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê£¾¯8ÄÙÏ1
+}python:S117"ZRename this local variable "vowleList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯àÑüÿÿÿÿ8ÄÙÏ1
+rpython:S1542"SRename function "reverseVowels" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö·Ñ 8ÄÙÏ1
