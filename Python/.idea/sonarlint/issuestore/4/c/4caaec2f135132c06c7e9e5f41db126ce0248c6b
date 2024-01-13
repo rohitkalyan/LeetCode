@@ -1,0 +1,4 @@
+
+wpython:S117"TRename this parameter "wordList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü“­€úÿÿÿÿ8ÔÀ©§Ð1
+zpython:S1542"VRename function "listToStringJoin" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü“­€úÿÿÿÿ8ÔÀ©§Ð1
+rpython:S1542"SRename function "isSubsequence" to match the regular expression ^[a-z_][a-z0-9_]*$.(õ™Î»8ÔÀ©§Ð1
