@@ -1,0 +1,5 @@
+
+{python:S117"XRename this local variable "maxArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ÇÔÿÿÿÿÿ8Ü“¯¶Ğ1
+python:S117"^Rename this local variable "minimumHeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã´€ùÿÿÿÿ8Ü“¯¶Ğ1
+lpython:S1542"MRename function "maxArea" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆŠ©ä8¡†£¶Ğ1
+fpython:S1763*"GDelete this unreachable code or refactor the code to make it reachable.(÷™±Ş8Ü“¯¶Ğ1
