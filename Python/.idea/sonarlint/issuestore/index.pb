@@ -151,3 +151,9 @@ P
  11. Container With Most Water.py,8\d\8d6d0fb8f22b5fd30c009c16a6d00c566a2b9e45
 R
 "1679. Max Number of K-Sum Pairs.py,1\4\146ea8f1d00cd8db0337e0cd7b0ab2aa50c36a7b
+R
+"643. Maximum Average Subarray I.py,4\c\4ca7c956b5c10321e1b4aa2072c770e940b93356
+p
+@1456. Maximum Number of Vowels in a Substring of Given Length.py,f\f\ff76b649ae7504b077f19cef9c90423c3e4f114e
+k
+;1493. Longest Subarray of 1's After Deleting One Element.py,a\d\ad54e28efcc1781a7c782840f8241e941697ac4b
