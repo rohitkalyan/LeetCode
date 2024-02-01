@@ -157,3 +157,11 @@ p
 @1456. Maximum Number of Vowels in a Substring of Given Length.py,f\f\ff76b649ae7504b077f19cef9c90423c3e4f114e
 k
 ;1493. Longest Subarray of 1's After Deleting One Element.py,a\d\ad54e28efcc1781a7c782840f8241e941697ac4b
+w
+G.idea/sonarlint/issuestore/a/d/ad54e28efcc1781a7c782840f8241e941697ac4b,c\7\c787154337dbe082b6a27af22c3fa77ee7d399b4
+Å
+Q.idea/sonarlint/securityhotspotstore/a/d/ad54e28efcc1781a7c782840f8241e941697ac4b,f\0\f0157ea3db272648853c1ec72bd00fccd28a2fe6
+Å
+Q.idea/sonarlint/securityhotspotstore/4/c/4ca7c956b5c10321e1b4aa2072c770e940b93356,e\b\eb50a50063aa0c7e1a2752319f0a4eb72fe7339a
+Å
+Q.idea/sonarlint/securityhotspotstore/f/f/ff76b649ae7504b077f19cef9c90423c3e4f114e,e\6\e640fdf338e319800e9a62ea8326853380b2a2f5
