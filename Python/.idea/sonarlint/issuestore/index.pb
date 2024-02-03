@@ -165,3 +165,27 @@ Q.idea/sonarlint/securityhotspotstore/a/d/ad54e28efcc1781a7c782840f8241e941697ac
 Q.idea/sonarlint/securityhotspotstore/4/c/4ca7c956b5c10321e1b4aa2072c770e940b93356,e\b\eb50a50063aa0c7e1a2752319f0a4eb72fe7339a
 Å
 Q.idea/sonarlint/securityhotspotstore/f/f/ff76b649ae7504b077f19cef9c90423c3e4f114e,e\6\e640fdf338e319800e9a62ea8326853380b2a2f5
+Å
+Q.idea/sonarlint/securityhotspotstore/f/0/f0157ea3db272648853c1ec72bd00fccd28a2fe6,8\c\8caad44450cfb56f8707b6bdf3aea32126e8f10c
+w
+G.idea/sonarlint/issuestore/c/7/c787154337dbe082b6a27af22c3fa77ee7d399b4,d\1\d109ee19477aee4edda09e6b0ba04192d4f55f96
+w
+G.idea/sonarlint/issuestore/e/b/eb50a50063aa0c7e1a2752319f0a4eb72fe7339a,8\1\8178a29e254e579077477329a5e3ffb032215d1c
+Å
+Q.idea/sonarlint/securityhotspotstore/c/7/c787154337dbe082b6a27af22c3fa77ee7d399b4,5\b\5b2433fa0874f4435b1bdea1651574d7b07f4663
+Å
+Q.idea/sonarlint/securityhotspotstore/e/b/eb50a50063aa0c7e1a2752319f0a4eb72fe7339a,7\2\728f55b5e7e51097f8869ce3a2093a101a284952
+w
+G.idea/sonarlint/issuestore/e/6/e640fdf338e319800e9a62ea8326853380b2a2f5,2\6\26a68a4402600ab0028aa4b0fea7b57ab673c2df
+w
+G.idea/sonarlint/issuestore/f/0/f0157ea3db272648853c1ec72bd00fccd28a2fe6,7\f\7f7b12ad7231b0436c0e6d28efa9e7f0d4dbe6ae
+Å
+Q.idea/sonarlint/securityhotspotstore/e/6/e640fdf338e319800e9a62ea8326853380b2a2f5,5\3\5301245c63fe20acd5138a9202e8c9f08e6f97f2
+R
+"1732. Find the Highest Altitude.py,8\5\85d433be902ff97c3dd2fbf209142923fc91d035
+D
+31. Next Permutation,d\5\d58664454ddab94b3fbafad86129680c51a77359
+U
+%1207. Unique Number of Occurrences.py,4\3\43584ce09b711a1175638ab0bd458c5f1161c1ce
+Z
+*1657. Determine if two string are close.py,b\2\b22e7153e137dd50e4ebe75dd87d3f8a00bce80c
